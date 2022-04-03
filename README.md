@@ -1,1 +1,1 @@
-# youtube_clone main page with TailWindaCSS
+# youtube_clone main page with TailWindCSS
