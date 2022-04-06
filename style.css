@@ -6,3 +6,9 @@
 
 
 }
+
+#search:focus{
+    box-shadow: none;
+    border-color: white;
+    border-bottom-color: black;
+}
